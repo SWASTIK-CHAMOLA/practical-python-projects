@@ -29,8 +29,8 @@ python tic_tac_toe.py
 ## Gameplay
 # tick_tack_toe
  A basic tick tack toe game made in python utilises pygame
-![Screenshot 2025-04-06 205105.png](Screenshot%202025-04-06%20205105.png)
-![Screenshot 2025-04-06 205134.png](Screenshot%202025-04-06%20205134.png)
-![Screenshot 2025-04-06 205143.png](Screenshot%202025-04-06%20205143.png)
+![image](https://github.com/user-attachments/assets/5e83f382-928f-4bae-b8f5-a796a1d2261f)
+![image](https://github.com/user-attachments/assets/32c14a33-8ece-4b04-a378-7bba62259d80)
 ![image](https://github.com/user-attachments/assets/4620a2c8-29b8-46da-b5ec-a3a22f45abe4) <br>
 ![image](https://github.com/user-attachments/assets/e6ceffc2-bb9d-47d8-a459-6d19332fb86b) <br> 
+![image](https://github.com/user-attachments/assets/98017024-056e-41ee-abbe-2545be519fbe)

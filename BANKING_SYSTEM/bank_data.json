@@ -1,0 +1,32 @@
+{
+  "Swastik": {
+    "full_name": "Swastik Chamola",
+    "password_hash": "312433c28349f63c4f387953ff337046e794bea0f9b9ebfcb08e90046ded9c76",
+    "account_number": "ACC000001",
+    "balance": 100000.0,
+    "transactions": [
+      {
+        "timestamp": "2025-09-25T13:58:06.953644",
+        "type": "BALANCE_INQUIRY",
+        "amount": 0,
+        "description": "Balance inquiry",
+        "balance_after": 0.0
+      },
+      {
+        "timestamp": "2025-09-25T13:58:10.705833",
+        "type": "BALANCE_INQUIRY",
+        "amount": 0,
+        "description": "Balance inquiry",
+        "balance_after": 0.0
+      },
+      {
+        "timestamp": "2025-09-25T13:58:25.927779",
+        "type": "DEPOSIT",
+        "amount": 100000.0,
+        "description": "Sample",
+        "balance_after": 100000.0
+      }
+    ],
+    "created_date": "2025-09-25T13:57:47.783557"
+  }
+}
